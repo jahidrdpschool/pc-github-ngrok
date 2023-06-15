@@ -19,16 +19,16 @@ VM features:
 
 Secrets Name | Uses | Notes
 ----- | ----- | -----
-**NGROK_AUTH_TOKEN_001** | For Host The 001 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_002** | For Host The 002 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_003** | For Host The 003 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_004** | For Host The 004 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_005** | For Host The 005 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_006** | For Host The 006 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_007** | For Host The 007 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_008** | For Host The 008 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_009** | For Host The 009 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_010** | For Host The 010 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_01** | For Host The 001 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_02** | For Host The 002 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_03** | For Host The 003 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_04** | For Host The 004 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_05** | For Host The 005 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_06** | For Host The 006 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_07** | For Host The 007 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_08** | For Host The 008 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_09** | For Host The 009 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_10** | For Host The 010 RDP | Type Different Ngrok Auth Token Than Other 9
 ---
 
 * We Have Some Cool Features That Other Scripts Dosen't Have
