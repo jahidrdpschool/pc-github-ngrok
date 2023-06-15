@@ -6,7 +6,7 @@ curl -s -L -o C:\Users\Public\Desktop\Telegram.exe https://telegram.org/dl/deskt
 echo Upload Telegram
 curl -s -L -o C:\Users\Public\Desktop\YTC.zip https://drive.google.com/u/0/uc?id=1CsFRmyUD5f3Lg-osb-mgMns8v7DJYoOE
 echo Upload YTCheat
-curl -s -L -o C:\Users\Public\Desktop\OpenBullet.zip https://drive.google.com/u/0/uc?id=194034OKqLd6ZADpHUdok021ZscRNTkAL
+curl -s -L -o C:\Users\Public\Desktop\OpenBullet.exe https://github.com/ScriptHUBofficial/OpenBullet-1.4.4/raw/main/OpenBullet.exe
 echo Upload Open Bullet
 curl -s -L -o C:\Users\Public\Desktop\Winrar.exe https://www.rarlab.com/rar/winrar-x64-621.exe
 echo Upload Winrar
