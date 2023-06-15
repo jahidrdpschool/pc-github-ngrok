@@ -1,7 +1,7 @@
 ## Windows-10-PC
 ![.](SS.png)
 
-# Read This Before Rushing To Actions Tab 💀
+# Read This Before Rushing To Actions Tab
 
 • Note : i'm not responsible for suspended accounts
 * Note : Set up much as you want but maximum is 10
@@ -84,5 +84,5 @@ Secrets Name | Uses | Notes
 
 # [Watch Tutorial If You Dosen't Understand This.](https://youtu.be/P-ctz1CuPi0)
 
-### Brought To You By Disala 💀 , Its Functional 😗.
+### Brought To You By Disala , Its Functional 😗.
 ### You Can See IP , Username , Pass And Cool Ascki Art 
