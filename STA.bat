@@ -16,9 +16,27 @@ sc config Audiosrv start= auto >nul
 sc start audiosrv >nul
 ICACLS C:\Windows\Temp /grant %username%:F >nul
 ICACLS C:\Windows\installer /grant %username%:F >nul
+
 echo ..........................................................
 echo IP:
 tasklist | find /i "ngrok.exe" >Nul && curl -s localhost:4040/api/tunnels | jq -r .tunnels[0].public_url || echo "Failed to retrieve NGROK authtoken - check your authtoken again"
 echo Username: %username%
 echo Password: %password%
 echo Log in Now.
+
+echo Configuring RDP...
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp" /v UserAuthentication /t REG_DWORD /d 1 /f
+
+echo Waiting for NGROK tunnel...
+:wait
+timeout /t 5 >nul
+tasklist | find /i "ngrok.exe" >Nul
+if %errorlevel% equ 0 (
+  curl -s localhost:4040/api/tunnels >Nul
+  if %errorlevel% equ 0 (
+    goto wait
+  )
+)
+
+echo RDP configuration completed. You can now connect to the machine.
