@@ -1,5 +1,4 @@
-## Disala-Windows-10-RDP-🇱🇰 
-
+## Windows-10-PC
 ![.](SS.png)
 
 # Read This Before Rushing To Actions Tab 💀
@@ -19,16 +18,16 @@ VM features:
 
 Secrets Name | Uses | Notes
 ----- | ----- | -----
-**NGROK_AUTH_TOKEN_01** | For Host The 001 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_02** | For Host The 002 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_03** | For Host The 003 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_04** | For Host The 004 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_05** | For Host The 005 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_06** | For Host The 006 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_07** | For Host The 007 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_08** | For Host The 008 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_09** | For Host The 009 RDP | Type Different Ngrok Auth Token Than Other 9
-**NGROK_AUTH_TOKEN_10** | For Host The 010 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_01** | For Host The 01 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_02** | For Host The 02 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_03** | For Host The 03 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_04** | For Host The 04 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_05** | For Host The 05 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_06** | For Host The 06 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_07** | For Host The 07 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_08** | For Host The 08 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_09** | For Host The 09 RDP | Type Different Ngrok Auth Token Than Other 9
+**NGROK_AUTH_TOKEN_10** | For Host The 10 RDP | Type Different Ngrok Auth Token Than Other 9
 ---
 
 * We Have Some Cool Features That Other Scripts Dosen't Have
@@ -43,7 +42,7 @@ Secrets Name | Uses | Notes
 
 ## Deploy and Run
 <details>
-    <summary>Windows 10 RDP Install and Run</summary>
+    <summary>Windows 10 Install and Run</summary>
 <br>
     
 * First Step (Do 2nd Step Before Running Workflow)
@@ -62,7 +61,7 @@ Secrets Name | Uses | Notes
 
 * Copy the link(**without tcp://**) and go to Remote Desktop, input the link to connect that you copied from the workflow.
 
-* Fill in those login info, within username:**TheDisala** or **runneradmin** and password:**@#Disala123456** .
+* Fill in those login info, within username:**Jahid** or **runneradmin** and password:**@#Jahid123456** .
 
 * Enjoy!
 
