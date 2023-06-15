@@ -1,6 +1,6 @@
 ## Disala-Windows-10-RDP-🇱🇰 
 
-![.](https://raw.githubusercontent.com/githubprojects41/Ngrok-Windows-RDP/main/Screenshot_20230601-224242_Microsoft%20Remote%20Desktop.png)
+![.](SS.png)
 
 # Read This Before Rushing To Actions Tab 💀
 
