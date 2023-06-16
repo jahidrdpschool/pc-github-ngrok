@@ -27,4 +27,4 @@ jobs:
           Start-Process ngrok -ArgumentList "tcp --region=in 3389" -NoNewWindow; $ngrokRunning = $false; $maxAttempts = 1; $attempts = 0; while (!$ngrokRunning -and $attempts -lt $maxAttempts) {$ngrokRunning = (Get-Process ngrok -ErrorAction SilentlyContinue) -ne $null; $attempts++ }; if ($ngrokRunning) { $ngrokUrl = (Invoke-RestMethod -Uri "http://localhost:4040/api/tunnels" | Select-Object -ExpandProperty tunnels)[0].public_url; Write-Host "IP: $ngrokUrl" } else { Write-Host "Failed to retrieve NGROK authtoken - check your authtoken again" }
           Write-Host "Username: runneradmin"
           Write-Host "Password: @#Jahid123456"
-          Start-Sleep -Seconds 3600
+          Start-Sleep -Seconds 21300
